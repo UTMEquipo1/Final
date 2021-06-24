@@ -8,7 +8,7 @@ package Elementos;
 import java.util.ArrayList;
 
 /**
- * 
+ * Clase que guarda la información del carrito. Su función es ligar la compra con los productos que se compraron.
  * @author Leonel
  */
 public class Carrito {
